@@ -1,10 +1,11 @@
 {
-    "symbols": [
-        {
-            "symbol": "SPY_GEX",
-            "description": "SPY Gamma Exposure Levels",
-            "path": "data/SPY_GEX.csv",
-            "format": "csv"
-        }
+    "symbol": [
+        "SPY_GEX"
+    ],
+    "description": [
+        "SPY Gamma Exposure"
+    ],
+    "pricescale": [
+        100
     ]
 }
