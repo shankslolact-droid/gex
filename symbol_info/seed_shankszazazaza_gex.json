@@ -1,11 +1,1 @@
-{
-    "symbol": [
-        "SPY_GEX"
-    ],
-    "description": [
-        "SPY Gamma"
-    ],
-    "pricescale": [
-        100
-    ]
-}
+{"symbol": ["SPY_GEX"], "description": ["SPY GEX"], "pricescale": [100]}
